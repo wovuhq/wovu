@@ -1,0 +1,32 @@
+{
+  "name": "@wovu/wovu",
+  "version": "0.0.1",
+  "description": "Wovu — the self-hosted, vendor-neutral multiplayer layer for AI coding agents. Watch, steer, resume and hand off any teammate's agent. (Name reserved; in active development — https://wovu.dev)",
+  "license": "MIT",
+  "homepage": "https://wovu.dev",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wovuhq/wovu.git"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "coding-agents",
+    "mcp",
+    "acp",
+    "multiplayer",
+    "team",
+    "claude-code",
+    "cursor"
+  ],
+  "bin": {
+    "wovu": "bin/wovu.js"
+  },
+  "files": [
+    "bin",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
